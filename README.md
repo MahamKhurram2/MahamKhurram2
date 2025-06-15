@@ -9,21 +9,32 @@
 
 I'm a Computer Science graduate who enjoys solving real-world problems through elegant, efficient code.  
 From ideation to deployment, I love being involved in every step of the software development lifecycle.
+I’m aslo passionate about **databases** – designing schemas, optimizing queries, and integrating them into scalable apps is one of my favorite parts of development.
 
-🔧 **Tech Stack & Tools**  
+---
+
+### 💻 Tech Stack & Tools
+
+#### 💡 Languages & Frameworks  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)  
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)  
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat)  
+![C++](https://img.shields.io/badge/-C++-239120?logo=c-sharp&logoColor=white&style=flat)  
+
+
+#### 🖥️ Full Stack & Cloud  
+![MERN Stack](https://img.shields.io/badge/-MERN-black?logo=react&logoColor=white&label=MERN+Stack&style=flat)  
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)  
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 
 ---
 
-### 💻 Featured Projects
+### 🌟 Featured Projects
 
 - [**Chameleon**](https://chameleon.apps.minascode.com/) – A real-time language exchange platform  
   `Next.js` · `MongoDB` · `TailwindCSS` · `Figma`
@@ -49,7 +60,6 @@ From ideation to deployment, I love being involved in every step of the software
 ### 🏆 Achievements
 
 - 🥈 Silver Medalist at FAST NUCES – Top performer in the 7th semester  
-- 🏅 Winner – Internal Product Development Competition at Minas Code
 
 ---
 
