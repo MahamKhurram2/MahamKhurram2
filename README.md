@@ -9,7 +9,7 @@
 
 I'm a Computer Science graduate who enjoys solving real-world problems through elegant, efficient code.  
 From ideation to deployment, I love being involved in every step of the software development lifecycle.
-I’m aslo passionate about **databases** – designing schemas, optimizing queries, and integrating them into scalable apps is one of my favorite parts of development.
+I’m aslo passionate about databases – designing schemas, optimizing queries, and integrating them into scalable apps is one of my favorite parts of development.
 
 ---
 
